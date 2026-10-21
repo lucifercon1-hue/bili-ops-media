@@ -1,0 +1,8 @@
+# 只保留素材与文档，避免仓库被大文件拖慢
+*.mp4
+*.mov
+*.mkv
+node_modules/
+.DS_Store
+Thumbs.db
+*.tmp
